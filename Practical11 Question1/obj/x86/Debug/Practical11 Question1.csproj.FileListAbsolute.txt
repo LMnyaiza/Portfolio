@@ -1,0 +1,20 @@
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical11 Question1\bin\Debug\Practical11 Question1.exe
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical11 Question1\bin\Debug\Practical11 Question1.pdb
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.exe
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.pdb
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical11 Question1\bin\Debug\Practical11 Question1.exe
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical11 Question1\bin\Debug\Practical11 Question1.pdb
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.exe
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.pdb
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\bin\Debug\Practical11 Question1.exe
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\bin\Debug\Practical11 Question1.pdb
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.exe
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.pdb
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\bin\Debug\Practical11 Question1.exe
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\bin\Debug\Practical11 Question1.pdb
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.exe
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical11 Question1\obj\x86\Debug\Practical11 Question1.pdb

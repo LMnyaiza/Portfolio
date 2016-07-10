@@ -1,0 +1,20 @@
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical8 Question2\bin\Debug\Practical8 Question2.exe
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical8 Question2\bin\Debug\Practical8 Question2.pdb
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.exe
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.pdb
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical8 Question2\bin\Debug\Practical8 Question2.exe
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical8 Question2\bin\Debug\Practical8 Question2.pdb
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.exe
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.pdb
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\bin\Debug\Practical8 Question2.exe
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\bin\Debug\Practical8 Question2.pdb
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.exe
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.pdb
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\bin\Debug\Practical8 Question2.exe
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\bin\Debug\Practical8 Question2.pdb
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.exe
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical8 Question2\obj\x86\Debug\Practical8 Question2.pdb

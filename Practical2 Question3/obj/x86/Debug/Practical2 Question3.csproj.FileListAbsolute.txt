@@ -1,0 +1,16 @@
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical2 Question3\bin\Debug\Practical2 Question3.exe
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical2 Question3\bin\Debug\Practical2 Question3.pdb
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical2 Question3\obj\x86\Debug\Practical2 Question3.exe
+C:\Users\Lu\Documents\#School My Modules\#IT 3rd year\Development Software ONT3601\C# Programs\Basic Practicals\Practical2 Question3\obj\x86\Debug\Practical2 Question3.pdb
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical2 Question3\bin\Debug\Practical2 Question3.exe
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical2 Question3\bin\Debug\Practical2 Question3.pdb
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical2 Question3\obj\x86\Debug\Practical2 Question3.exe
+C:\Users\Lu\Documents\#School My Modules\Programs\C#\Basic Practicals\Practical2 Question3\obj\x86\Debug\Practical2 Question3.pdb
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical2 Question3\bin\Debug\Practical2 Question3.exe
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical2 Question3\bin\Debug\Practical2 Question3.pdb
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical2 Question3\obj\x86\Debug\Practical2 Question3.exe
+C:\Users\Lu\Documents\#School My Modules\Extra Curricular\Portfolio\Desktop apps\C#\Basic Practicals\Practical2 Question3\obj\x86\Debug\Practical2 Question3.pdb
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical2 Question3\bin\Debug\Practical2 Question3.exe
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical2 Question3\bin\Debug\Practical2 Question3.pdb
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical2 Question3\obj\x86\Debug\Practical2 Question3.exe
+C:\Users\Lu\Documents\#Portfolio\Desktop apps\C#\Basic Practicals\Practical2 Question3\obj\x86\Debug\Practical2 Question3.pdb
